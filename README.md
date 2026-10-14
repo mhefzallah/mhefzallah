@@ -1,11 +1,19 @@
 <h1 align="center">Hi, I'm Mohammed Abdullah 👋</h1>
 <h3 align="center">Senior Odoo Developer · Fullstack Web Engineer</h3>
+<p align="center">📍 Cairo, Egypt · Open to remote work with KSA, UAE &amp; Europe</p>
 
 <p align="center">
-  <a href="https://mhefzallah.github.io"><img src="https://img.shields.io/badge/Portfolio-1E4A37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-hefzallah-14297022b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to-Remote_·_GCC_·_International-2ea44f?style=for-the-badge" alt="Open to work"/>
+  <a href="https://mhefzallah.github.io/assets/Mohammed-Abdullah-CV.pdf"><img src="https://img.shields.io/badge/📄_My_CV-1E4A37?style=for-the-badge" height="34" alt="My CV"/></a>&nbsp;&nbsp;
+  <a href="https://mhefzallah.github.io"><img src="https://img.shields.io/badge/🌐_My_Portfolio-1E4A37?style=for-the-badge" height="34" alt="My Portfolio"/></a>
+</p>
+
+### 📫 Find me on
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-hefzallah-14297022b/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:mohammed.hefzallah@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"/></a>&nbsp;
+  <a href="https://wa.me/201554463171"><img src="assets/whatsapp.svg" height="42" alt="WhatsApp"/></a>&nbsp;
+  <a href="https://mhefzallah.github.io"><img src="assets/portfolio.svg" height="42" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -21,54 +29,26 @@ I build **ERP systems with Odoo** and **production web apps with React, Next.js,
 - 🎧 Built a **bilingual customer support CRM** with Django REST Framework and React + TypeScript, including AI ticket summaries, reply suggestions and a self-service chatbot.
 - 🚚 Built a delivery management system that handles **500+ shipments a day** with SMSA Express and OneStock integrations.
 - 🎓 B.Sc. Computer Science · **Odoo Certified Professional (v15)**
+- 🗣️ Arabic (native) · English (professional)
 
 ---
 
 ### 🛠️ Tech stack
 
-**ERP / Odoo**
-<p>
-  <img src="https://img.shields.io/badge/Odoo_v11–v19-714B67?style=flat-square&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo.sh-714B67?style=flat-square&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWL-714B67?style=flat-square"/>
-  <img src="https://img.shields.io/badge/QWeb-714B67?style=flat-square"/>
-</p>
+**ERP**<br/>
+<img src="assets/odoo.svg" height="48" alt="Odoo"/>&nbsp; Odoo v11 – v19 · Odoo.sh · OWL · QWeb · Python ORM
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white"/>
-</p>
+**Languages**<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=python,js,ts,php,html,css" height="48" alt="Python, JavaScript, TypeScript, PHP, HTML, CSS"/>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Capacitor_(iOS/Android)-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+**Frontend & mobile**<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=react,nextjs,vite,tailwind,mui,gsap,capacitor" height="48" alt="React, Next.js, Vite, Tailwind, MUI, GSAP, Capacitor"/>
 
-**Backend, data & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+**Backend & data**<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=django,postgres,mysql,supabase,sanity,jwt,postman" height="48" alt="Django, PostgreSQL, MySQL, Supabase, Sanity, JWT, Postman"/>
+
+**Tools**<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=git,github,linux,docker,vscode" height="48" alt="Git, GitHub, Linux, Docker, VS Code"/>
 
 **Integrations:** ZATCA e-Invoice · PayTabs · Telr · Neoleap POS · SMSA Express · OneStock · Salla API · Google Drive & OneDrive · Gemini AI
 
@@ -115,6 +95,14 @@ I build **ERP systems with Odoo** and **production web apps with React, Next.js,
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhefzallah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=mhefzallah&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
+
+### 🐍 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhefzallah/mhefzallah/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhefzallah/mhefzallah/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mhefzallah/mhefzallah/output/github-snake.svg"/>
+</picture>
 
 ---
 
