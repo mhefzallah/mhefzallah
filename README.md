@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Mohammed Abdullah 👋</h1>
-<h3 align="center">Senior Odoo Developer · Fullstack Web Engineer</h3>
+<h3 align="center">Odoo ERP Developer · Fullstack Web Engineer</h3>
 <p align="center">📍 Cairo, Egypt · Open to remote work with KSA, UAE &amp; Europe</p>
 
 <p align="center">
-  <a href="https://mhefzallah.github.io/assets/Mohammed-Abdullah-CV.pdf"><img src="https://img.shields.io/badge/📄_My_CV-1E4A37?style=for-the-badge" height="34" alt="My CV"/></a>&nbsp;&nbsp;
   <a href="https://mhefzallah.github.io"><img src="https://img.shields.io/badge/🌐_My_Portfolio-1E4A37?style=for-the-badge" height="34" alt="My Portfolio"/></a>
 </p>
 
@@ -22,7 +21,7 @@
 
 I build **ERP systems with Odoo** and **production web apps with React, Next.js, Django and PHP**, working for clients in Saudi Arabia, the UAE and Egypt.
 
-- 🏢 **Senior Odoo Developer** at an Odoo Gold Partner. I lead 9 enterprise Odoo.sh environments (v17–v19).
+- 🏢 **Odoo Developer at AZM Squad**, plus independent ERP work for clients in KSA, the UAE and Egypt — 9 enterprise Odoo.sh environments delivered (v17–v19).
 - 🔁 Migrated **63 custom modules from Odoo v17 to v19** with zero data loss.
 - 🇸🇦 Built **40+ Saudi HRMS modules** (Labor Law, EOSB, Iqama, Payroll) plus **ZATCA e-invoicing** integrations.
 - 🌐 As a solo fullstack developer, shipped **3 Arabic-first hotel booking platforms** with React 18, TypeScript, PWA, PHP and MySQL, and live PayTabs payments.
