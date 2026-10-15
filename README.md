@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed Abdullah 👋</h1>
+<h1 align="center">Hi, I'm Mohammed Hefzallah 👋</h1>
 <h3 align="center">Odoo ERP Developer · Fullstack Web Engineer</h3>
 <p align="center">📍 Cairo, Egypt · Open to remote work with KSA, UAE &amp; Europe</p>
 
@@ -9,7 +9,7 @@
 ### 📫 Find me on
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-hefzallah-14297022b/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mhefzallah/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:mohammed.hefzallah@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"/></a>&nbsp;
   <a href="https://wa.me/201554463171"><img src="assets/whatsapp.svg" height="42" alt="WhatsApp"/></a>&nbsp;
   <a href="https://mhefzallah.github.io"><img src="assets/portfolio.svg" height="42" alt="Portfolio"/></a>
@@ -105,4 +105,4 @@ I build **ERP systems with Odoo** and **production web apps with React, Next.js,
 
 ---
 
-<p align="center">💬 Open to <b>Odoo / ERP</b> and <b>fullstack</b> projects. See my work at <a href="https://mhefzallah.github.io">mhefzallah.github.io</a> or contact me on <a href="https://www.linkedin.com/in/mohamed-hefzallah-14297022b/">LinkedIn</a>.</p>
+<p align="center">💬 Open to <b>Odoo / ERP</b> and <b>fullstack</b> projects. See my work at <a href="https://mhefzallah.github.io">mhefzallah.github.io</a> or contact me on <a href="https://www.linkedin.com/in/mhefzallah/">LinkedIn</a>.</p>
