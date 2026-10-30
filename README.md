@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Hefzallah 👋</h1>
-<h3 align="center">Odoo ERP Developer · Fullstack Web Engineer</h3>
+<h3 align="center">Software Engineer · Odoo ERP · Salla &amp; Zid E-commerce · Fullstack Web</h3>
 <p align="center">📍 Cairo, Egypt · Open to remote work with KSA, UAE &amp; Europe</p>
 
 <p align="center">
@@ -21,9 +21,10 @@
 
 I build **ERP systems with Odoo** and **production web apps with React, Next.js, Django and PHP**, working for clients in Saudi Arabia, the UAE and Egypt.
 
-- 🏢 **Odoo Developer at AZM Squad**, plus independent ERP work for clients in KSA, the UAE and Egypt — 9 enterprise Odoo.sh environments delivered (v17–v19).
+- 🏢 **Odoo Developer at AZM Squad**, plus independent ERP work for clients in KSA, the UAE and Egypt — working across **19 production Odoo.sh projects** (v17–v19), lead developer on 8.
 - 🔁 Migrated **63 custom modules from Odoo v17 to v19** with zero data loss.
 - 🇸🇦 Built **40+ Saudi HRMS modules** (Labor Law, EOSB, Iqama, Payroll) plus **ZATCA e-invoicing** integrations.
+- 🛒 Built and launched **Salla & Zid stores** end to end — theme, catalogue, Saudi payment methods, shipping and SEO.
 - 🌐 As a solo fullstack developer, shipped **3 Arabic-first hotel booking platforms** with React 18, TypeScript, PWA, PHP and MySQL, and live PayTabs payments.
 - 🎧 Built a **bilingual customer support CRM** with Django REST Framework and React + TypeScript, including AI ticket summaries, reply suggestions and a self-service chatbot.
 - 🚚 Built a delivery management system that handles **500+ shipments a day** with SMSA Express and OneStock integrations.
@@ -49,7 +50,7 @@ I build **ERP systems with Odoo** and **production web apps with React, Next.js,
 **Tools**<br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=git,github,linux,docker,vscode" height="48" alt="Git, GitHub, Linux, Docker, VS Code"/>
 
-**Integrations:** ZATCA e-Invoice · PayTabs · Telr · Neoleap POS · SMSA Express · OneStock · Salla API · Google Drive & OneDrive · Gemini AI
+**Integrations:** ZATCA e-Invoice · PayTabs · Telr · Neoleap POS · SMSA Express · OneStock · Salla · Zid · Google Drive & OneDrive · Gemini AI
 
 ---
 
